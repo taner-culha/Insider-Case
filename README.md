@@ -7,4 +7,4 @@ E-Ticaret sitelerindeki "Sizin için önerilenler" alanını yapılması.
 <p>
 Swiper.js 
 <br>
-<img src="https://github.com/taner-culha/Insider-Case/blob/main/insider-case.png" alt="img">
+<img src="https://github.com/taner-culha/Insider-Case/blob/main/swiperjs.png" alt="img">
